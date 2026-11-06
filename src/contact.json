@@ -1,0 +1,14 @@
+{
+  "_readme": "Edit only the values on the right. Numbers: digits only with country code, no +, spaces or hyphens. Leave a value empty (\"\") to hide it on the website. Save the file and the site updates (restart 'npm run dev' if needed, rebuild before publishing).",
+  "shopName": "BarberPro",
+  "ownerName": "Aniket Korde",
+  "whatsappNumber": "918806689125",
+  "phoneNumber": "918806689125",
+  "phoneDisplay": "+91 88066 89125",
+  "email": "",
+  "city": "मूर्तिजापूर, अकोला",
+  "address": "At Post Kurum, Tq. Murtizapur, Dist. Akola",
+  "workingHours": "सर्व दिवस: सकाळी १० ते रात्री ९",
+  "whatsappDefaultMessage": "नमस्कार! मला BarberPro बद्दल अधिक माहिती हवी आहे.",
+  "demoRequestIntro": "नमस्कार! मला BarberPro डेमो हवा आहे."
+}
